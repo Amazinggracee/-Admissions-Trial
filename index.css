@@ -1,0 +1,45 @@
+body{
+    background-color: white;
+    font-size: 16px;
+    color: #241c15;
+    font-family: Means Web,Georgia,Times,Times New Roman,serif;
+    line-height: 1.35;
+    overflow-x: hidden;
+    text-align: center;
+    margin: 0px;
+}
+
+
+.navbar{
+    width: 100%;
+    height: 50px;
+    margin-top: 0px;
+    margin-right: 20px;
+    padding: 0px;
+    
+}
+.one{
+    text-align: right;
+    background-color: yellow;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    padding: 10px;
+    border: none;
+    margin-right: 30px;
+    padding-right: 20px;
+   
+   
+}
+button {
+    margin-right: 20px;
+}
+a{
+    padding: 5px;
+    padding-top: 10px;
+}
+.flex4{
+    flex: 30%;
+    display: flex;
+    flex-direction: row;
+}
